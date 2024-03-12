@@ -17,3 +17,4 @@ This repository contains scripts for processing and visualizing employee salary 
 ## Files
 - `process_data.py`: Python script for processing salary data.
 - `employee_profile.zip`: Zipped file containing the processed employee salary data.
+- R script for extracting and viewing Zip File
